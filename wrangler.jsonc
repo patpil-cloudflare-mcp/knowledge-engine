@@ -53,7 +53,7 @@
         "name": "MCP_OBJECT"          // Binding name (used internally by McpAgent)
       }
     ]
-  }
+  },
 
   /**
    * REQUIRED for OAuth: Shared KV namespaces
